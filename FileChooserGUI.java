@@ -124,64 +124,6 @@ public class FileChooserGUI extends JFrame {
       thisDB.getInventoryForGUI(text);
    }
    
-   /**
-    * This method is called from a menuhandler class which opens an input dialog to insert a player to the DB
-    */
-//   public void insertData() {
-//      String playerInfo = JOptionPane.showInputDialog("Enter a basketball player with the format of Name, Position, "
-//            + "Age, Team, Height\nAll separated by commas and Height in feet\'inches\" format");
-//      if (playerInfo != null) {
-//         boolean check = thisDB.insertPlayer(playerInfo); // insert playerinfo
-//         if (check == true) {
-//            JOptionPane.showMessageDialog(null, "Successfully inserted information into the database!");
-//            thisDB.getPlayersForGUI(text);   
-//         }
-//         else 
-//            JOptionPane.showMessageDialog(null, "Insertion was unsuccessful. Try again!");
-//      }
-//   }
-//   
-   /**
-    * This method is called from a menuhandler class that updates player info
-    */
-//   public void updateData() {
-//      String playerName = JOptionPane.showInputDialog("Enter the player name you want to update");
-//      if (playerName != null) {
-//         String playerInfo = thisDB.getPlayerInfo(playerName); // first get the playerinfo
-//         if(playerInfo == "None") { // if Database class returns None then there is no player
-//            JOptionPane.showMessageDialog(null, "No player found!"); 
-//         }
-//         else {
-//            String newPlayerInfo = JOptionPane.showInputDialog("The current information for player " + playerName
-//                  + " is " + playerInfo + "\nPlease enter new information for this player in the same format as above");
-//            if (newPlayerInfo != null) {
-//               boolean check = thisDB.updatePlayer(playerName, newPlayerInfo); // update player
-//               if (check == true) {
-//                  JOptionPane.showMessageDialog(null, "Successfully updated player information");
-//                  thisDB.getPlayersForGUI(text);
-//               }
-//               else 
-//                  JOptionPane.showMessageDialog(null, "Update was unsuccessful. Try again!");        
-//            }
-//         }
-//      }
-//   }
-
-   /**
-    * method is called from menuhandler which deletes a player from DB using input for name
-    */
-//   public void deleteData() {
-//      String playerName = JOptionPane.showInputDialog("Enter the player name you want to delete");
-//      if (playerName != null) {
-//         boolean check = thisDB.removePlayer(playerName); // remove player
-//         if (check == true) {
-//            JOptionPane.showMessageDialog(null, "Successfull removed player from database.");
-//            thisDB.getPlayersForGUI(text);
-//         }
-//         else 
-//            JOptionPane.showMessageDialog(null, "Could not remove player from the database. Go to options > display to see if that player exists!");
-//      }
-//   }
    
    /**
     * on exit menu item shutdown DB and exit program
