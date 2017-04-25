@@ -22,7 +22,7 @@ public class FileMenuHandler implements ActionListener {
       String menuName = event.getActionCommand();
       if (menuName.equals("Quit"))
          thisGUI.exit();
-      else if (menuName.equals("Open")) {
+      else if (menuName.equals("Insert File")) {
          thisGUI.getFile();
       }
    }

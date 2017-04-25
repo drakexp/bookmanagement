@@ -1,0 +1,9 @@
+DEPENDENCIES
+
+MySQL
+   -Must have MySQL installed in order to run this project.
+   -The localhost instance must be on port 3306
+   -The instance must have a role with user=testuser, pass=test
+   -The user must have privileges to insert, update, delete, create DB/Tables
+   -mysql-connector-java-5.1.40-bin.jar that can be found at https://dev.mysql.com/downloads/connector/j/5.1.html must also be on the classpath of the project
+   

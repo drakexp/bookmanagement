@@ -22,13 +22,13 @@ public class OptionMenuHandler implements ActionListener {
     */
    public void actionPerformed(ActionEvent event) {
       String menuName = event.getActionCommand();
-      if (menuName.equals("Display"))
+      if (menuName.equals("Display Inventory"))
          thisGUI.updateText();
-//      else if (menuName.equals("Insert"))
-//         thisGUI.insertData();
-//      else if (menuName.equals("Update"))
-//         thisGUI.updateData();
-//      else if (menuName.equals("Delete"))
-//         thisGUI.deleteData();
+      else if (menuName.equals("Insert Single Inventory"))
+         thisGUI.insertData();
+      else if (menuName.equals("Update Inventory"))
+         thisGUI.updateData();
+      else if (menuName.equals("Delete from Inventory"))
+         thisGUI.deleteData();
    }
 }

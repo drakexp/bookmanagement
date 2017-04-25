@@ -1,0 +1,75 @@
+TRANSACTIONAL LOG
+Tue 12/06/2016 02:10:12 PM INSERT into inventory: 1510722874, Terry, Goodkind,  Nest, 2016,  Skyhorse Publishing, 15
+Previous Values: None
+Tue 12/06/2016 02:10:18 PM INSERT into inventory: 1476738025, Fredrick, Backman,  A Man Called Ove: A Novel, 2015,  Washington Square Press, 90
+Previous Values: None
+Tue 12/06/2016 03:37:49 PM INSERT into inventory: 0756404746, Patrick, Rothfuss,  The Name of the Wind, 2008,  DAW Books, 40
+Previous Values: None
+Tue 12/06/2016 03:37:55 PM INSERT into inventory: 0345335511, David, Eddings,  Pawn of Prophecy, 1986,  Del Rey, 20
+Previous Values: None
+Tue 12/06/2016 03:37:59 PM INSERT into inventory: 0198739834, Nick, Bostrom,  Superintelligence: Paths, Dangers, Strategies, 2016,  Oxford University Press, 10
+Previous Values: None
+Tue 12/06/2016 03:38:03 PM INSERT into inventory: 1423606027, Thaddeus, Golas,  Lazy Man''s Guide to Enlightenment, 2008,  Gibbs Smith, 5
+Previous Values: None
+Tue 12/06/2016 03:38:07 PM INSERT into inventory: 0061124958, E.B., White,  Charlotte''s Web, 2012,  Harper Collins, 20
+Previous Values: None
+Tue 12/06/2016 04:03:18 PM INSERT into inventory: 0756404746, Patrick, Rothfuss,  The Name of the Wind, 2008,  DAW Books, 40
+Previous Values: None
+Tue 12/06/2016 04:03:27 PM INSERT into inventory: 0345335511, David, Eddings,  Pawn of Prophecy, 1986,  Del Rey, 20
+Previous Values: None
+Tue 12/06/2016 04:03:30 PM INSERT into inventory: 0198739834, Nick, Bostrom,  Superintelligence: Paths, Dangers, Strategies, 2016,  Oxford University Press, 10
+Previous Values: None
+Tue 12/06/2016 04:03:34 PM INSERT into inventory: 1423606027, Thaddeus, Golas,  Lazy Man''s Guide to Enlightenment, 2008,  Gibbs Smith, 5
+Previous Values: None
+Tue 12/06/2016 04:03:38 PM INSERT into inventory: 0061124958, E.B., White,  Charlotte''s Web, 2012,  Harper Collins, 20
+Previous Values: None
+Tue 12/06/2016 04:41:19 PM UPDATE for 0756404746 from inventory: 0756404746, Patrick, Rothfuss,  The Name of the Wind, 2008,  DAW Books, 40
+Previous Values: 0756404746; Patrick; Rothfuss;  The Name of the Wind; 2008;  DAW Books; 40; null;Tue 12/06/2016 04:03:18 PM; null
+Tue 12/06/2016 04:41:25 PM UPDATE for 0345335511 from inventory: 0345335511, David, Eddings,  Pawn of Prophecy, 1986,  Del Rey, 20
+Previous Values: 0345335511; David; Eddings;  Pawn of Prophecy; 1986;  Del Rey; 20; null;Tue 12/06/2016 04:03:26 PM; null
+Tue 12/06/2016 04:41:30 PM UPDATE for 0198739834 from inventory: 0198739834, Nick, Bostrom,  Superintelligence: Paths, Dangers, Strategies, 2016,  Oxford University Press, 10
+Previous Values: 0198739834; Nick; Bostrom;  Superintelligence: Paths, Dangers, Strategies; 2016;  Oxford University Press; 10; null;Tue 12/06/2016 04:03:30 PM; null
+Tue 12/06/2016 04:41:34 PM UPDATE for 1423606027 from inventory: 1423606027, Thaddeus, Golas,  Lazy Man''s Guide to Enlightenment, 2008,  Gibbs Smith, 5
+Previous Values: 1423606027; Thaddeus; Golas;  Lazy Man's Guide to Enlightenment; 2008;  Gibbs Smith; 5; null;Tue 12/06/2016 04:03:34 PM; null
+Tue 12/06/2016 04:41:37 PM UPDATE for 0061124958 from inventory: 0061124958, E.B., White,  Charlotte''s Web, 2012,  Harper Collins, 20
+Previous Values: 0061124958; E.B.; White;  Charlotte's Web; 2012;  Harper Collins; 20; null;Tue 12/06/2016 04:03:37 PM; null
+Tue 12/06/2016 04:42:19 PM UPDATE for 0756404746 from inventory: 0756404746, Patrick, Rothfuss,  The Name of the Wind, 2008,  DAW Books, 40
+Previous Values: 0756404746; Patrick; Rothfuss;  The Name of the Wind; 2008;  DAW Books; 80; null;Tue 12/06/2016 04:03:18 PM; Tue 12/06/2016 04:41:19 PM
+Tue 12/06/2016 04:42:25 PM UPDATE for 0345335511 from inventory: 0345335511, David, Eddings,  Pawn of Prophecy, 1986,  Del Rey, 20
+Previous Values: 0345335511; David; Eddings;  Pawn of Prophecy; 1986;  Del Rey; 40; null;Tue 12/06/2016 04:03:26 PM; Tue 12/06/2016 04:41:25 PM
+Tue 12/06/2016 04:42:29 PM UPDATE for 0198739834 from inventory: 0198739834, Nick, Bostrom,  Superintelligence: Paths, Dangers, Strategies, 2016,  Oxford University Press, 10
+Previous Values: 0198739834; Nick; Bostrom;  Superintelligence: Paths, Dangers, Strategies; 2016;  Oxford University Press; 20; null;Tue 12/06/2016 04:03:30 PM; Tue 12/06/2016 04:41:30 PM
+Tue 12/06/2016 04:42:32 PM UPDATE for 1423606027 from inventory: 1423606027, Thaddeus, Golas,  Lazy Man''s Guide to Enlightenment, 2008,  Gibbs Smith, 5
+Previous Values: 1423606027; Thaddeus; Golas;  Lazy Man's Guide to Enlightenment; 2008;  Gibbs Smith; 10; null;Tue 12/06/2016 04:03:34 PM; Tue 12/06/2016 04:41:34 PM
+Tue 12/06/2016 04:42:35 PM UPDATE for 0061124958 from inventory: 0061124958, E.B., White,  Charlotte''s Web, 2012,  Harper Collins, 20
+Previous Values: 0061124958; E.B.; White;  Charlotte's Web; 2012;  Harper Collins; 40; null;Tue 12/06/2016 04:03:37 PM; Tue 12/06/2016 04:41:37 PM
+Tue 12/06/2016 04:43:34 PM UPDATE for 0756404746 from inventory: 0756404746, Patrick, Rothfuss,  The Name of the Wind, 2008,  DAW Books, 40
+Previous Values: 0756404746; Patrick; Rothfuss;  The Name of the Wind; 2008;  DAW Books; 120; null;Tue 12/06/2016 04:03:18 PM; Tue 12/06/2016 04:42:18 PM
+Tue 12/06/2016 04:43:40 PM UPDATE for 0345335511 from inventory: 0345335511, David, Eddings,  Pawn of Prophecy, 1986,  Del Rey, 20
+Previous Values: 0345335511; David; Eddings;  Pawn of Prophecy; 1986;  Del Rey; 60; null;Tue 12/06/2016 04:03:26 PM; Tue 12/06/2016 04:42:25 PM
+Tue 12/06/2016 04:43:43 PM UPDATE for 0198739834 from inventory: 0198739834, Nick, Bostrom,  Superintelligence: Paths, Dangers, Strategies, 2016,  Oxford University Press, 10
+Previous Values: 0198739834; Nick; Bostrom;  Superintelligence: Paths, Dangers, Strategies; 2016;  Oxford University Press; 30; null;Tue 12/06/2016 04:03:30 PM; Tue 12/06/2016 04:42:29 PM
+Tue 12/06/2016 04:43:51 PM UPDATE for 1423606027 from inventory: 1423606027, Thaddeus, Golas,  Lazy Man''s Guide to Enlightenment, 2008,  Gibbs Smith, 5
+Previous Values: 1423606027; Thaddeus; Golas;  Lazy Man's Guide to Enlightenment; 2008;  Gibbs Smith; 15; null;Tue 12/06/2016 04:03:34 PM; Tue 12/06/2016 04:42:32 PM
+Tue 12/06/2016 04:43:55 PM UPDATE for 0061124958 from inventory: 0061124958, E.B., White,  Charlotte''s Web, 2012,  Harper Collins, 20
+Previous Values: 0061124958; E.B.; White;  Charlotte's Web; 2012;  Harper Collins; 60; null;Tue 12/06/2016 04:03:37 PM; Tue 12/06/2016 04:42:35 PM
+Tue 12/06/2016 04:45:12 PM UPDATE for 0756404746 from inventory: 0756404746, Patrick, Rothfuss,  The Name of the Wind, 2008,  DAW Books, 40
+Previous Values: 0756404746; Patrick; Rothfuss;  The Name of the Wind; 2008;  DAW Books; 160; null;Tue 12/06/2016 04:03:18 PM; Tue 12/06/2016 04:43:34 PM
+Tue 12/06/2016 04:45:19 PM UPDATE for 0345335511 from inventory: 0345335511, David, Eddings,  Pawn of Prophecy, 1986,  Del Rey, 20
+Previous Values: 0345335511; David; Eddings;  Pawn of Prophecy; 1986;  Del Rey; 80; null;Tue 12/06/2016 04:03:26 PM; Tue 12/06/2016 04:43:40 PM
+Tue 12/06/2016 04:45:33 PM UPDATE for 0198739834 from inventory: 0198739834, Nick, Bostrom,  Superintelligence: Paths, Dangers, Strategies, 2016,  Oxford University Press, 10
+Previous Values: 0198739834; Nick; Bostrom;  Superintelligence: Paths, Dangers, Strategies; 2016;  Oxford University Press; 40; null;Tue 12/06/2016 04:03:30 PM; Tue 12/06/2016 04:43:43 PM
+Tue 12/06/2016 04:45:48 PM UPDATE for 1423606027 from inventory: 1423606027, Thaddeus, Golas,  Lazy Man''s Guide to Enlightenment, 2008,  Gibbs Smith, 5
+Previous Values: 1423606027; Thaddeus; Golas;  Lazy Man's Guide to Enlightenment; 2008;  Gibbs Smith; 20; null;Tue 12/06/2016 04:03:34 PM; Tue 12/06/2016 04:43:46 PM
+Tue 12/06/2016 04:46:13 PM UPDATE for 0061124958 from inventory: 0061124958, E.B., White,  Charlotte''s Web, 2012,  Harper Collins, 20
+Previous Values: 0061124958; E.B.; White;  Charlotte's Web; 2012;  Harper Collins; 80; null;Tue 12/06/2016 04:03:37 PM; Tue 12/06/2016 04:43:55 PM
+Tue 12/06/2016 04:47:51 PM UPDATE for 0756404746 from inventory: 0756404746, Patrick, Rothfuss,  The Name of the Wind, 2008,  DAW Books, 40
+Previous Values: 0756404746; Patrick; Rothfuss;  The Name of the Wind; 2008;  DAW Books; 200; null;Tue 12/06/2016 04:03:18 PM; Tue 12/06/2016 04:45:12 PM
+Tue 12/06/2016 04:48:08 PM UPDATE for 0345335511 from inventory: 0345335511, David, Eddings,  Pawn of Prophecy, 1986,  Del Rey, 20
+Previous Values: 0345335511; David; Eddings;  Pawn of Prophecy; 1986;  Del Rey; 100; null;Tue 12/06/2016 04:03:26 PM; Tue 12/06/2016 04:45:19 PM
+Tue 12/06/2016 04:48:11 PM UPDATE for 0198739834 from inventory: 0198739834, Nick, Bostrom,  Superintelligence: Paths, Dangers, Strategies, 2016,  Oxford University Press, 10
+Previous Values: 0198739834; Nick; Bostrom;  Superintelligence: Paths, Dangers, Strategies; 2016;  Oxford University Press; 50; null;Tue 12/06/2016 04:03:30 PM; Tue 12/06/2016 04:45:33 PM
+Tue 12/06/2016 04:48:15 PM UPDATE for 1423606027 from inventory: 1423606027, Thaddeus, Golas,  Lazy Man''s Guide to Enlightenment, 2008,  Gibbs Smith, 5
+Previous Values: 1423606027; Thaddeus; Golas;  Lazy Man's Guide to Enlightenment; 2008;  Gibbs Smith; 25; null;Tue 12/06/2016 04:03:34 PM; Tue 12/06/2016 04:45:48 PM
+Tue 12/06/2016 04:48:19 PM UPDATE for 0061124958 from inventory: 0061124958, E.B., White,  Charlotte''s Web, 2012,  Harper Collins, 20
+Previous Values: 0061124958; E.B.; White;  Charlotte's Web; 2012;  Harper Collins; 100; null;Tue 12/06/2016 04:03:37 PM; Tue 12/06/2016 04:46:13 PM
